@@ -1,13 +1,13 @@
-## En costruccion... 🚧🏗️👷   
+## En construccion... 🚧🏗️👷   
 
 
 <img src="https://github.com/images/mona-whisper.gif" alt="drawing" width="50"/> <img src="https://github.com/images/mona-whisper.gif" alt="drawing" width="50"/> <img src="https://github.com/images/mona-whisper.gif" alt="drawing" width="50"/> 
 
 ### Mientras checkea alguno de mis repos 👀:
-- 🕹️ **[VFX](https://github.com/FerLS/UnityVFXs)** 
-- 🧔🏽 **[LazaGRUB](https://github.com/FerLS/LazaGRUB)** 
-- 🤖 **[HackazonUDC 2023](https://github.com/FerLS/HackazonUDC_2023)** 
-- 🖥️ **[Informatica UDC](https://github.com/FerLS/Informatica-UDC)** 
+- **[VFX](https://github.com/FerLS/UnityVFXs)** 🕹️
+- **[LazaGRUB](https://github.com/FerLS/LazaGRUB)** 🧔🏽
+- **[HackazonUDC 2023](https://github.com/FerLS/HackazonUDC_2023)** 🤖
+- **[Informatica UDC](https://github.com/FerLS/Informatica-UDC)** 🖥️
 
 <!--
 **FerLS/FerLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
