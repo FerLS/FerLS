@@ -1,4 +1,4 @@
-## En construccion... 🚧🏗️👷   
+## 🚧 En construccion🚧 🏗️👷   
 
 <picture><img src="https://github.com/images/mona-whisper.gif" alt="drawing" width="50"/></picture><picture><img src="https://github.com/images/mona-whisper.gif" alt="drawing" width="50"/></picture> <picture><img src="https://github.com/images/mona-whisper.gif" alt="drawing" width="50"></picture><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"><img src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" alt="drawing" width="50"/></a>
 
