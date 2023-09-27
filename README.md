@@ -10,11 +10,15 @@
 - **[Informatica UDC](https://github.com/FerLS/Informatica-UDC)** 🖥️
 
 ㅤ
-ㅤㅤ
 
 _Busca la ventana invisble..._
+<details>
+  <summary><sub>Pista</sub></summary>
+  <i><sub>Tres felinos la protegen</sub></i>
+  
+</details>
 
-_<sub>pista: tres felinos la protegen</sub>_
+
 <!--
 **FerLS/FerLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
