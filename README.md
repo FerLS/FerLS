@@ -19,8 +19,10 @@ _Busca la ventana invisble..._
   
 </details>
 
-
 <!--
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerLS&show_icons=true&theme=transparent\&rank_icon=github)
+
 **FerLS/FerLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
