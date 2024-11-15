@@ -12,12 +12,6 @@
 
 ---
 
-_Busca la ventana invisble..._
-<details>
-  <summary><sub>Pista</sub></summary>
-  <i><sub>Tres guardianes la protegen</sub></i>
-  
-</details>
 
 <!--
 
