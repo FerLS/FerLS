@@ -4,18 +4,13 @@
 
 <img align="right" width="200" height="200" src="https://github.com/FerLS/FerLS/blob/main/grua.gif">
 
-### Mientras checkea alguno de mis repos 👀: 
-- **[Mis Juegos](https://play.google.com/store/apps/dev?id=8806467952186602035)** 🕹️  
-- **[LazaGRUB](https://github.com/FerLS/LazaGRUB)** 🧔🏽
-- **[HackazonUDC 2023](https://github.com/FerLS/HackazonUDC_2023)** 🤖
-- **[Informatica UDC](https://github.com/FerLS/Informatica-UDC)** 🖥️
 
----
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerLS&show_icons=true&theme=transparent\&rank_icon=github)
 
 
 <!--
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerLS&show_icons=true&theme=transparent\&rank_icon=github)
 
 **FerLS/FerLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
